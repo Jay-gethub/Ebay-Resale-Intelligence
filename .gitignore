@@ -1,0 +1,18 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# Environment variables and API credentials
+.env
+.env.*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local datasets
+data/raw/
+data/processed/
+data/*.sqlite3
+data/*.sqlite3-*

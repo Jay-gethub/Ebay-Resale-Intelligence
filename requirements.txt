@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+requests
+python-dotenv
+jupyter
+pytest>=8.0
+pycountry>=24.6.1
