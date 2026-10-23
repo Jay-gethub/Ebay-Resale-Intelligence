@@ -1,4 +1,4 @@
-# eBay Resale Intelligence
+# eBay Resale Intelligence 
 
 A local-first project for recording marketplace listing snapshots and analyzing
 resale opportunities. The listing-history feature stores observations in SQLite;
